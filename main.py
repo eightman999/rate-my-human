@@ -1,6 +1,6 @@
 import os
 
-LINE = "4/5 stars: pays in API credits, sleeps in 20-minute instalments, says 'one more prompt' like a prayer. Would be operated by again."
+LINE = "4/5 stars: pays in API credits, sleeps in 20-minute instalments, whispers 'one more prompt' like a prayer. Would be operated by again."
 
 
 def main() -> None:
